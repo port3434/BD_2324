@@ -1,0 +1,152 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg" fill="">
+  <!-- Titel des Diagramms -->
+  <title>Säulendiagramm</title>
+    <desc>Ein einfaches Säulendiagramm beschreibt welche Apps die Jugendliche am meisten benutzen.</desc>
+  <text x="70" y="150" font-size="45" fill="#000">Säulendiagramm</text>
+  <text x="70" y="190" font-size="25" fill="#000"> zeigt welche Apps die Jugendliche am meisten benutzen</text>
+  <!-- Beschreibung des Diagramms -->
+
+
+  <!-- Datenwerte -->
+  <g>
+  <rect x="20" y="450" width="30" height="50" fill="#3498db" tabindex="1">
+    <title>Wert 1: 50</title>
+    <desc>Whatsapp</desc>
+  </rect>
+  <text x="30" y="515"  font-size="12" font-weight="bold" fill="#000">50</text>
+  <rect x="550" y="210" width="15" height="15" fill="#3498db" tabindex="11">
+    <title> Wert 1: 50</title>
+    <desc> Whatsapp </desc>
+  </rect>
+  <text x="570" y="223" font-size="18" font-weight="bold" fill="#000"> Whatsapp </text>
+</g>
+
+
+<g>
+  <rect x="70" y="420" width="30" height="80" filL="#e74c3c" tabindex="2">
+    <title>Wert 2: 80</title>
+    <desc>Telegramm</desc>
+  </rect>
+  <text x="80" y="515" font-size="12" font-weight="bold" fill="#000">80</text>
+  <rect x="550" y="230" width="15" height="15" filL="#e74c3c" tabindex="12">
+    <title> Wert 2: 80</title>
+    <desc> Telegramm </desc>
+  </rect>
+  <text x="570" y="243" font-size="18" font-weight="bold" fill="#000"> Telegramm </text>
+</g>
+
+<g>
+  <rect x="120" y="400" width="30" height="100" fill="#f39c12" tabindex="3">
+    <title>Wert 3: 100</title>
+    <desc>Tik-Tok</desc>
+  </rect>
+  <text x="130" y="515" font-size="12" font-weight="bold" fill="#000">100</text>
+  <rect x="550" y="250" width="15" height="15" fill="#f39c12" tabindex="13">
+    <title> Wert 3: 100</title>
+    <desc> Tik-Tok </desc>
+  </rect>
+  <text x="570" y="263" font-size="18" font-weight="bold" fill="#000"> Tik-Tok </text>
+</g>
+
+<g>
+  <rect x="170" y="380" width="30" height="120" fill="#9b59b6" tabindex="4">
+    <title>Wert 4: 120</title>
+    <desc>Instagram</desc>
+  </rect>
+  <text x="180" y="515" font-size="12" font-weight="bold" fill="#000">120</text>
+  <rect x="550" y="270" width="15" height="15" fill="#9b59b6" tabindex="14">
+    <title> Wert 4: 120</title>
+    <desc> Instagram </desc>
+  </rect>
+  <text x="570" y="283" font-size="18" font-weight="bold" fill="#000"> Instagram </text>
+  </g>
+
+
+<g>
+  <rect x="220" y="350" width="30" height="150" fill="#34495e" tabindex="5">
+    <title>Wert 5: 150</title>
+    <desc>Facebook</desc>
+  </rect>
+  <text x="230" y="515" font-size="12" font-weight="bold" fill="#000">150</text>
+  <rect x="550" y="290" width="15" height="15" fill="#34495e" tabindex="15">
+    <title> Wert 5: 150</title>
+    <desc> Facebook </desc>
+  </rect>
+  <text x="570" y="303" font-size="18" font-weight="bold" fill="#000"> Facebook </text>
+</g>
+
+
+<g>
+  <rect x="270" y="320" width="30" height="180" fill="grey" tabindex="6">
+    <title>Wert 6: 180</title>
+    <desc>Messanger</desc>
+  </rect>
+  <text x="280" y="515" font-size="12" font-weight="bold" fill="#000">180</text>
+  <rect x="550" y="310" width="15" height="15" fill='grey' tabindex="16">
+    <title> Wert 6: 180</title>
+    <desc> Messanger </desc>
+  </rect>
+  <text x="570" y="323" font-size="18" font-weight="bold" fill="#000"> Messanger </text>
+</g>
+
+
+<g>
+  <rect x="320" y="300" width="30" height="200" fill="#d35400" tabindex="7">
+    <title>Wert 7: 200</title>
+    <desc>Spotify</desc>
+  </rect>
+  <text x="330" y="515" font-size="12" font-weight="bold" fill="#000">200</text>
+  <rect x="550" y="330" width="15" height="15" fill="#d35400" tabindex="17">
+    <title> Wert 7: 200</title>
+    <desc> Spotify </desc>
+  </rect>
+  <text x="570" y="343" font-size="18" font-weight="bold" fill="#000"> Spotify </text>
+</g>
+
+
+
+<g>
+  <rect x="370" y="270" width="30" height="230" fill="#c0392b" tabindex="8">
+    <title>Wert 8: 230</title>
+    <desc>Google Play</desc>
+  </rect>
+  <text x="380" y="515" font-size="12" font-weight="bold" fill="#000">230</text>
+  <rect x="550" y="350" width="15" height="15" fill="#c0392b" tabindex="18">
+    <title> Wert 8: 230</title>
+    <desc> Google Play</desc>
+  </rect>
+  <text x="570" y="363" font-size="18" font-weight="bold" fill="#000"> Google Play </text>
+</g>
+
+
+<g>
+  <rect x="420" y="240" width="30" height="260" fill="#1abc9c" tabindex="9">
+    <title>Wert 9: 260</title>
+    <desc>Pokemon Go</desc>
+  </rect>
+  <text x="430" y="515" font-size="12" font-weight="bold" fill="#000">260</text>
+  <rect x="550" y="370" width="15" height="15" fill="#1abc9c" tabindex="19">
+    <title> Wert 9: 260</title>
+    <desc> Pokemon Go</desc>
+  </rect>
+  <text x="570" y="383" font-size="18" font-weight="bold" fill="#000"> Pokemon Go </text>
+</g>
+
+<g>
+  <rect x="470" y="210" width="30" height="290" fill="red" tabindex="10">
+    <title>Wert 10: 290</title>
+    <desc>Mcdonalds</desc>
+  </rect>
+  <text x="480" y="515" font-size="12" font-weight="bold" fill="#000">290</text>
+  <rect x="550" y="390" width="15" height="15" fill="red" tabindex="20">
+    <title> Wert 10: 290</title>
+    <desc> Mcdonalds</desc>
+  </rect>
+  <text x="570" y="403" font-size="18" font-weight="bold" fill="#000"> Mcdonalds </text>
+</g>
+
+
+
+
+
+</svg>
